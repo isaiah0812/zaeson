@@ -1,0 +1,25 @@
+{
+  "name": "zaeson-js",
+  "version": "0.1.0",
+  "description": "ZaeSON (a play on \"JSON\") is a hypermedia format that focuses on categorizing HTTP resources received from web services. This repository includes specification for the ZaeSON hypermedia format, as well as any helper modules for using ZaeSON in both clients and servers.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isaiah0812/zaeson.git"
+  },
+  "author": "Isaiah Bullard",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/isaiah0812/zaeson/issues"
+  },
+  "homepage": "https://github.com/isaiah0812/zaeson#readme",
+  "devDependencies": {
+    "@types/jest": "^29.2.4",
+    "jest": "^29.3.1",
+    "ts-jest": "^29.0.3",
+    "typescript": "^4.9.4"
+  }
+}
